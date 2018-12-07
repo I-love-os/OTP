@@ -1,0 +1,12 @@
+[package]
+name = "otp"
+version = "0.1.0"
+authors = ["Mikolaj Radkowski <yknomeh@protonmail.com>"]
+
+[dependencies]
+tui = "0.3.0"
+termion = "*"
+stderrlog = "*"
+failure = "*"
+log = "*"
+rand = "*"
